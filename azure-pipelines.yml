@@ -5,7 +5,7 @@
 
 trigger:
 - master
-
+##run again
 pool:
   vmImage: 'windows-latest'
 
