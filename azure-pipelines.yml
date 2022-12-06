@@ -7,7 +7,7 @@ trigger:
 - master
 ##run again
 pool:
-  vmImage: 'windows-latest'
+  default
 
 variables:
   solution: '**/*.sln'
